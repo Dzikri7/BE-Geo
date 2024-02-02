@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	aidanwoods.dev/go-paseto v1.5.1
-	github.com/Fancypedia/fancybackenddd v1.9.122
 	github.com/aiteung/atapi v0.1.1
 	github.com/aiteung/atdb v0.1.5
 	github.com/aiteung/atmessage v0.1.0
@@ -26,10 +25,10 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/websocket v1.5.1 // indirect
-	github.com/klauspost/compress v1.17.2 // indirect
+	github.com/klauspost/compress v1.16.5 // indirect
 	github.com/lib/pq v1.10.9 // indirect
 	github.com/mattn/go-sqlite3 v1.14.18 // indirect
-	github.com/microsoft/go-mssqldb v1.6.0 // indirect
+	github.com/microsoft/go-mssqldb v1.0.0 // indirect
 	github.com/montanaflynn/stats v0.7.1 // indirect
 	github.com/puzpuzpuz/xsync/v3 v3.0.2 // indirect
 	github.com/rs/xid v1.5.0 // indirect
@@ -41,7 +40,7 @@ require (
 	go.mau.fi/util v0.2.1 // indirect
 	go.mau.fi/whatsmeow v0.0.0-20231117115946-30233d743d35 // indirect
 	golang.org/x/net v0.18.0 // indirect
-	golang.org/x/sync v0.5.0 // indirect
+	golang.org/x/sync v0.2.0 // indirect
 	golang.org/x/sys v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect

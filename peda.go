@@ -1,4 +1,4 @@
-package dz
+package peda
 
 import (
 	"encoding/json"

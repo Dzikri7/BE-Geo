@@ -1,4 +1,4 @@
-package dz
+package main
 
 import (
 	"fmt"
